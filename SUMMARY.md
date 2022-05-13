@@ -17,3 +17,7 @@
 ## Kotak Saran
 
 * [Kritik dan Saran](kotak-saran/kritik-dan-saran.md)
+
+## Profil
+
+* [Halaman Profil](profil/halaman-profil.md)

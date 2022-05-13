@@ -8,7 +8,7 @@ Untuk memberikan saran, klik Kotak Saran.
 
 ### 2. Berikan Judul
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Untuk memasukkan judul, klik judul dan masukkan judul.
 
