@@ -1,8 +1,13 @@
 # Table of contents
 
+## Cara Install
+
+* [IOS](README.md)
+* [Android](cara-install/android.md)
+
 ## Absensi
 
-* [Cek Absensi](README.md)
+* [Cek Absensi](<README (1).md>)
 * [Cek Absensi Spesifik](absensi/cek-absensi-spesifik.md)
 
 ## Cuti

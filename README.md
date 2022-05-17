@@ -1,7 +1,23 @@
-# Cek Absensi
+# IOS
 
-### Cara cek Absensi
+### Buka Website ESS
 
-![Layar Absensi](<.gitbook/assets/image (6).png>)
+<img src=".gitbook/assets/WhatsApp Image 2022-05-17 at 9.41.25 AM.jpeg" alt="" data-size="original">
 
-Dalam layar absensi, terdapat kolom Hari, Tanggal, In(waktu masuk), Out(waktu pulang), Jam Kerja, dan Deskripsi bila absen kosong.
+Pertama, buka website ESS di [https://ess.rimauaplikasi.com/](https://ess.rimauaplikasi.com/)&#x20;
+
+
+
+### Pencet Tombol Share
+
+![](<.gitbook/assets/Install IOS 1 (1).jpeg>)
+
+Setelah membuka website ESS, pencet tombol share.
+
+
+
+### Tambahkan ke Layar Utama
+
+![](<.gitbook/assets/Install IOS 2.jpeg>)
+
+Pencet tombol Tambah ke Layar Utama untuk menginstall aplikasi.
