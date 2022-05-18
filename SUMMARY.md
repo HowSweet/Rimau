@@ -14,6 +14,7 @@
 
 * [Buat Izin Cuti](cuti/buat-izin-cuti.md)
 * [Cek Riwayat Cuti](cuti/cek-riwayat-cuti.md)
+* [Perizinan Tim](cuti/perizinan-tim.md)
 
 ## Pengumuman
 
