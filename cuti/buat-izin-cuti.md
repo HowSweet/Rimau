@@ -44,50 +44,44 @@ Kemudian pilih jam mulai cuti, digambar ini jam yang dipilih adalah jam 08:00 AM
 
 ### 5. Pilih Menit Mulai Cuti
 
-![](<../.gitbook/assets/Menit Cuti (1).png>)
+![](<../.gitbook/assets/Menit cuti.png>)
 
 Kemudian pilih menit cutinya… Di sini yang dipilih adalah menit 30.
 
 ### 6. Pilih Tanggal Akhir Cuti
 
-![](<../.gitbook/assets/Tanggal Akhir Cuti.png>)
+![](<../.gitbook/assets/Tanggal Akhir Cuti (1).png>)
 
 Kemudian lihat kolom di bawah tulisan End, klik icon kalender, kemudian pilih tanggal akhir cuti, di sini dipilih tanggal 22 Mei.
 
 ### 7. Pilih Jam Akhir Cuti
 
-![](<../.gitbook/assets/Jam Akhir Cuti.png>)
+![](<../.gitbook/assets/Jam Akhir Cuti (1).png>)
 
 Kemudian pilih jam akhir cuti, di sini dipilih jam 05:00 PM.
 
 ### 8. Pilih Menit Akhir Cuti
 
-![](<../.gitbook/assets/Menit Akhir Cuti.png>)
+![](<../.gitbook/assets/Menit Akhir Cuti (1).png>)
 
 Kemudian pilih menit akhir cuti… Di sini dipilih menit 30.
 
 ### 9. Jumlah Hari Kerja yang Terpakai
 
-![](<../.gitbook/assets/Hari Kerja.png>)
+![](<../.gitbook/assets/Hari kerja.png>)
 
 Kolom Hari Kerja akan secara otomatis menghitung jumlah hari kerja (cuti) karyawan. Harap diperiksa kembali apakah jumlah hari kerja (cuti) tersebut sudah sesuai dengan pengajuan yang karyawan mau ajukan, perhatikan hari Sabtu, Minggu, libur tanggal merah.
 
 ### 10. Masukkan Alasan Cuti
 
-![](<../.gitbook/assets/Alasan Cuti.png>)
+![](<../.gitbook/assets/Alasan cuti (2).png>)
 
-Lihat kolom alasan…. Di sini diisi 4 hari cuti, 17, 18, 19, 20, tanggal 21 hari Sabtu, tanggal 22 hari Minggu, jadi tidak termasuk hari kerja (cuti).
+Masukkan alasan cuti di kolom Alasan. Contoh: kategori cuti dinas luar, **WAJIB** menyertakan nomor surat beserta alasan.
 
-Jadi nanti yang akan dihitung adalah 4 hari, bukan 6 hari (karena 6 hari itu perhitungan otomatis untuk cuti rooster).
 
-### 11. Pilih Tipe Cuti
 
-![](<../.gitbook/assets/Tipe cuti.png>)
+### **11. Kirim**
 
-Kemudian lihat kolom di bawah tulisan **TYPE**, klik panah bawah “v”, pilih **Cuti** atau **Potong Gaji.**
-
-### **12. Kirim**
-
-![](<../.gitbook/assets/Tombol Kirim.png>)
+![](<../.gitbook/assets/Tombol kirim.png>)
 
 Berikutnya, klik **KIRIM.**

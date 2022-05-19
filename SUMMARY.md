@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Pendahuluan](README.md)
+
 ## Cara Install
 
-* [IOS](README.md)
+* [IOS](<README (2).md>)
 * [Android](cara-install/android.md)
 
 ## Absensi
