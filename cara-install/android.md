@@ -18,7 +18,7 @@ Bila pilihan Add ESS Rimau to Home screen tidak muncul, tekan tombol titik 3.
 
 ![](<../.gitbook/assets/Install android 2.jpeg>)
 
-Setelah menekan titik 3, pencet Install app
+Setelah menekan titik 3, tekan Install app
 
 ### Install
 
