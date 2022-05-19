@@ -1,19 +1,7 @@
 # Kritik dan Saran
 
-### 1. Klik Kotak Saran
-
-![](<../.gitbook/assets/image (8).png>)
-
-Untuk memberikan saran, klik Kotak Saran.
-
-### 2. Berikan Judul
-
-![](<../.gitbook/assets/image (4) (1).png>)
-
-Untuk memasukkan judul, klik judul dan masukkan judul.
-
-### 3. Isi Kritik dan Saran
-
 ![](<../.gitbook/assets/image (5).png>)
 
-Masukkan kritik dan saran di kolom Kritik dan Saran.
+Untuk memberi saran, klik Kotak Saran di pojok kanan atas.
+
+Pertama, klik di kotak judul dan masukkan judul atau topik dari kritik dan saran. Lalu, klik di kotak Kritik dan saran… lalu isi dengan kritik dan saran yang ingin Anda sampaikan. Setelah selesai mengisi, klik kirim untuk mengirimkan kritik dan saran Anda.
