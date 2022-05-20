@@ -2,12 +2,16 @@
 
 ### 1. Klik Sisa Cuti
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5).png>)
 
 Klik tombol **Sisa Cuti**  untuk masuk ke halaman riwayat cuti.
 
 ### 2. Riwayat Cuti
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (22).png>)
 
-Bila sudah pernah mengambil cuti, maka akan muncul di halaman Riwayat Cuti. Bila belum, maka akan muncul **Belum ada riwayat cuti**.
+Bila belum mengajukan cuti maka akan muncul **Belum ada riwayat cuti**
+
+![](<../.gitbook/assets/image (12).png>)
+
+Bila sudah pernah mengambil cuti, maka akan muncul di halaman Riwayat Cuti.

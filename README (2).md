@@ -10,7 +10,7 @@ Pertama, buka website ESS di [https://ess.rimauaplikasi.com/](https://ess.rimaua
 
 ### Pencet Tombol Share
 
-![](<.gitbook/assets/Install IOS 1 (1).jpeg>)
+![](<.gitbook/assets/image (11).png>)
 
 Setelah membuka website ESS, tekan tombol share.
 
@@ -18,6 +18,6 @@ Setelah membuka website ESS, tekan tombol share.
 
 ### Tambahkan ke Layar Utama
 
-![](<.gitbook/assets/Install IOS 2.jpeg>)
+![](<.gitbook/assets/image (18).png>)
 
 Tekan tombol Tambah ke Layar Utama untuk menginstall aplikasi.

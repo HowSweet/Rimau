@@ -1,6 +1,6 @@
 # Kritik dan Saran
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Untuk memberi saran, klik Kotak Saran di pojok kanan atas.
 

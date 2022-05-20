@@ -2,19 +2,19 @@
 
 ### 1. Klik Profil
 
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
+![](<../.gitbook/assets/image (1).png>)
 
 Untuk mengecek profil, klik Profil
 
 ### 2. Ubah Password
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 Klik ubah password untuk mengubah password
 
 ### 3. Halaman Ubah Password
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (19).png>)
 
 Pertama, masukkan password lama di kolom Password Lama. Selanjutnya, masukkan password baru di kolom Password Baru. Re - Password Baru berarti Anda harus memasukkan password baru pada kolom Re - Password Baru untuk mengkonfirmasi password baru. Setelah mengetik password, klik pada centang **Bila** Anda ingin memutus akses dari semua device login. Maka harus login ulang di semua device. Terakhir, pencet **Kirim** untuk menyimpan password baru.
 
@@ -22,6 +22,6 @@ Pertama, masukkan password lama di kolom Password Lama. Selanjutnya, masukkan pa
 
 ### 4. Tampilan Posisi
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (27).png>)
 
-Dibagian bawah halaman profil, terdapat posisi utama user, serta tim user.&#x20;
+Dibagian bawah halaman profil, terdapat posisi utama user, serta tim user.

@@ -2,7 +2,7 @@
 
 ### Buka website ESS
 
-### ![](<../.gitbook/assets/Install android home.jpeg>)
+### ![](<../.gitbook/assets/image (23).png>)
 
 Pertama, buka website ESS di [https://ess.rimauaplikasi.com/](https://ess.rimauaplikasi.com/) , lalu tekan Add ESS Rimau to Home screen.
 
@@ -10,18 +10,18 @@ Pertama, buka website ESS di [https://ess.rimauaplikasi.com/](https://ess.rimaua
 
 ### Pencet tombol titik 3
 
-### ![](<../.gitbook/assets/Install android 1.jpeg>)
+### ![](<../.gitbook/assets/image (14).png>)
 
 Bila pilihan Add ESS Rimau to Home screen tidak muncul, tekan tombol titik 3.
 
 ### Install App
 
-![](<../.gitbook/assets/Install android 2.jpeg>)
+![](<../.gitbook/assets/image (2).png>)
 
 Setelah menekan titik 3, tekan Install app
 
 ### Install
 
-![](<../.gitbook/assets/Install android 3.jpeg>)
+![](<../.gitbook/assets/image (24).png>)
 
 Setelah menekan Install app, maka akan muncul kotak Install app, lalu tekan Install.
