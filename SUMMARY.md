@@ -7,6 +7,10 @@
 * [IOS](<README (2).md>)
 * [Android](cara-install/android.md)
 
+## Profil
+
+* [Halaman Profil](profil/halaman-profil.md)
+
 ## Absensi
 
 * [Cek Absensi](<README (1).md>)
@@ -25,7 +29,3 @@
 ## Kotak Saran
 
 * [Kritik dan Saran](kotak-saran/kritik-dan-saran.md)
-
-## Profil
-
-* [Halaman Profil](profil/halaman-profil.md)
