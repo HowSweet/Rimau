@@ -8,7 +8,7 @@ Untuk mengecek profil, klik Profil
 
 ### 2. Ubah Password
 
-![](<../.gitbook/assets/Untitled design (1).png>)
+![](<../.gitbook/assets/Untitled design (1) (1).png>)
 
 Klik ubah password untuk mengubah password
 

@@ -2,7 +2,7 @@
 
 ### 1. Membuat Perizinan&#x20;
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/Untitled design (6).png>)
 
 Untuk mengajukan izin, klik icon perizinan, lalu klik Buat Izin.
 

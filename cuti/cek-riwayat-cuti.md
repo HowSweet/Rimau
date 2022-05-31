@@ -12,6 +12,6 @@ Klik tombol **Sisa Cuti**  untuk masuk ke halaman riwayat cuti.
 
 Bila belum mengajukan cuti maka akan muncul **Belum ada riwayat cuti**
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/Untitled design (5).png>)
 
 Bila sudah pernah mengambil cuti, maka akan muncul di halaman Riwayat Cuti.
