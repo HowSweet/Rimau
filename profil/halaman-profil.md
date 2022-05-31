@@ -2,13 +2,13 @@
 
 ### 1. Klik Profil
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/Untitled design (2).png>)
 
 Untuk mengecek profil, klik Profil
 
 ### 2. Ubah Password
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/Untitled design (1).png>)
 
 Klik ubah password untuk mengubah password
 
@@ -22,6 +22,6 @@ Pertama, masukkan password lama di kolom Password Lama. Selanjutnya, masukkan pa
 
 ### 4. Tampilan Posisi
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/Untitled design (3).png>)
 
 Dibagian bawah halaman profil, terdapat posisi utama user, serta tim user.
