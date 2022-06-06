@@ -2,9 +2,9 @@
 
 ### Cara cek pengumuman
 
-![](<../.gitbook/assets/image (10) (1) (1).png>)
+![](<../.gitbook/assets/image (27).png>)
 
-Untuk menu pengumuman, silahkan klik di icon **Pengumuman**. Di sini belum ada pengumuman dari kantor pusat.&#x20;
+Untuk menu pengumuman, silahkan klik di icon **Pengumuman**.&#x20;
 
 Menu ini adalah untuk pengumuman yang disiarkan dari kantor pusat.
 
