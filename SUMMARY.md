@@ -29,3 +29,4 @@
 ## Kotak Saran
 
 * [Kritik dan Saran](kotak-saran/kritik-dan-saran.md)
+* [Contact Person](kotak-saran/contact-person.md)
