@@ -8,7 +8,7 @@ Pertama, buka website ESS di [https://ess.rimauaplikasi.com/](https://ess.rimaua
 
 
 
-### Pencet Tombol Share
+### Tekan Tombol Share
 
 ![](<.gitbook/assets/image (11).png>)
 

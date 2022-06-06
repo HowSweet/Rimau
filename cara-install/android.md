@@ -8,7 +8,7 @@ Pertama, buka website ESS di [https://ess.rimauaplikasi.com/](https://ess.rimaua
 
 
 
-### Pencet tombol titik 3
+### Tekan tombol titik 3
 
 ### ![](<../.gitbook/assets/image (14).png>)
 
