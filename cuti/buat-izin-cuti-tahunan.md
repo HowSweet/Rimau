@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/Untitled design (6).png>)
 
-Untuk mengajukan izin, klik icon perizinan, lalu klik Buat Izin.
+Untuk mengajukan izin cuti tahunan, klik icon perizinan, lalu klik Buat Izin.
 
 
 
@@ -62,7 +62,7 @@ Pilih jam akhir cuti, seperti di contoh ini, dipilih jam 17:30
 
 ### 7. Jumlah Hari Kerja yang Terpakai
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 Di kolom Hari Kerja akan secara otomatis menghitung jumlah hari kerja (cuti) karyawan. Harap diperiksa kembali apakah jumlah hari kerja (cuti) tersebut sudah sesuai dengan pengajuan yang karyawan akan ajukan, perhatikan hari Sabtu, Minggu, libur tanggal merah.
 
@@ -70,7 +70,7 @@ Jika ada kesalahan dari jumlah hari atau sisa jumlah cuti, dapat cari info ke HR
 
 ### **8**. Masukkan Alasan Cuti
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 Masukkan alasan cuti di kolom Alasan.
 
@@ -78,6 +78,6 @@ Contoh: jika kategori cuti adalah Cuti Tahunan, maka menyertakan alasan yaitu Po
 
 ### **9. Kirim**
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (1).png>)
 
 Berikutnya, klik **KIRIM.**

@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/Untitled design (6).png>)
 
-Untuk mengajukan izin, klik icon perizinan, lalu klik Buat Izin.
+Jika ada masalah dengan alat Finger Print, klik icon perizinan, lalu klik Buat Izin.
 
 
 
@@ -12,74 +12,52 @@ Untuk mengajukan izin, klik icon perizinan, lalu klik Buat Izin.
 
 ![](<../.gitbook/assets/image (9).png>)
 
-Lihat Kolom di bawah Kategori, kemudian Klik tanda panah bawah “v”, silahkan memilih alasan cuti:
+Lihat Kolom di bawah Kategori, kemudian Klik tanda panah bawah “v”, silahkan memilih Fingerprint error.
 
-\-  Cuti Melahirkan
-
-\-  Cuti Tahunan
-
-\-  Dinas Luar
-
-\-  Fingerprint error
-
-\-  Keluarga Meninggal
-
-\-  Menikah
-
-\-  Pulang Setengah Hari
-
-\-  Sakit
-
-\- Telat
-
-\- WFH
-
-Contoh jika fingerprint error, maka pilih fingerprint error.
-
-### 3. Pilih Tanggal Mulai Cuti
+### 3. Pilih Tanggal Masuk Kerja
 
 ![](<../.gitbook/assets/image (28).png>)
 
-Kemudian lihat kolom di bawah tulisan **Start**, pilih icon kalender, lalu pilih tanggal mulai cuti, contoh dipilihnya  tanggal mulai cuti adalah 10 Juni 2022.
+Kemudian lihat kolom di bawah tulisan **Start**, pilih icon kalender, lalu pilih tanggal fingerprint error.
 
-### 4. Pilih Jam Mulai Cuti
+Contoh, 10 Juni 2022
+
+### 4. Pilih Jam Masuk Kerja&#x20;
 
 ![](<../.gitbook/assets/image (8).png>)
 
-Pilih jam cuti, seperti di contoh dipilih jam 8:30
+Pilih jam masuk kantor, jam 8:30.
 
-### 5. Pilih Tanggal Akhir Cuti
+### 5. Pilih Tanggal Pulang Kerja
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (22).png>)
 
-Kemudian lihat kolom di bawah tulisan End, klik icon kalender, kemudian pilih tanggal akhir cuti, contoh dipilihnya  tanggal selesai cuti adalah 16 Juni 2022.
+Karena izin yang dibuat adalah mengenai fingerprint error, maka tanggal akhir cuti dibuat hari yang sama. Maka, bukti kehadiran karyawan/karyawati akan di konfirmasi melalui rekaman CCTV hari itu.
 
-### 6. Pilih Jam Akhir Cuti
+### 6. Pilih Jam Pulang Kerja
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (12).png>)
 
-Pilih jam akhir cuti, seperti di contoh ini, dipilih jam 17:30
+Pilih jam pulang kantor, jam 17:30.
 
 
 
 ### 7. Jumlah Hari Kerja yang Terpakai
 
-![](<../.gitbook/assets/image (27).png>)
+![](<../.gitbook/assets/image (14).png>)
 
-Di kolom Hari Kerja akan secara otomatis menghitung jumlah hari kerja (cuti) karyawan. Harap diperiksa kembali apakah jumlah hari kerja (cuti) tersebut sudah sesuai dengan pengajuan yang karyawan akan ajukan, perhatikan hari Sabtu, Minggu, libur tanggal merah.
+Di kolom Hari Kerja akan secara otomatis menghitung jumlah hari kerja (cuti) karyawan. Harap diperiksa kembali bahwa jumlah hari kerja yang terpakai hanya 1 hari saja. Karena perihal mesin fingerprint error hanya mencakup awal masuk kerja hingga akhir hari kerja itu saja.
 
 Jika ada kesalahan dari jumlah hari atau sisa jumlah cuti, dapat cari info ke HRD.
 
-### **8**. Masukkan Alasan Cuti
+### **8**. Masukkan Alasan membuat izin
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (38).png>)
 
-Masukkan alasan cuti di kolom Alasan.
-
-Contoh: jika kategori cuti adalah Fingerprint error, maka menyertakan alasan yaitu fingerprint error.
+Jika kategori izin adalah Fingerprint error, maka menyertakan alasan yaitu kapan terjadinya error pada mesin fingerprint.
 
 ### **9. Kirim**
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (27).png>)
 
 Berikutnya, klik **KIRIM.**

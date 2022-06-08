@@ -4,61 +4,39 @@
 
 ![](<../.gitbook/assets/Untitled design (6).png>)
 
-Untuk mengajukan izin, klik icon perizinan, lalu klik Buat Izin.
+Untuk mengajukan izin dinas luar, klik icon perizinan, lalu klik Buat Izin.
 
 
 
 ### 2. Pilih Kategori
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
-Lihat Kolom di bawah Kategori, kemudian Klik tanda panah bawah “v”, silahkan memilih alasan cuti:
+Lihat Kolom di bawah Kategori, kemudian Klik tanda panah bawah “v”, dan pilih dinas luar.
 
-\-  Cuti Melahirkan
-
-\-  Cuti Tahunan
-
-\-  Dinas Luar
-
-\-  Fingerprint error
-
-\-  Keluarga Meninggal
-
-\-  Menikah
-
-\-  Pulang Setengah Hari
-
-\-  Sakit
-
-\- Telat
-
-\- WFH
-
-Contoh jika perusahaan meminta karyawan untuk dinas luar, maka pilih dinas luar.
-
-### 3. Pilih Tanggal Mulai Cuti
+### 3. Pilih Tanggal Mulai Dinas
 
 ![](<../.gitbook/assets/image (6).png>)
 
-Kemudian lihat kolom di bawah tulisan **Start**, pilih icon kalender, lalu pilih tanggal mulai cuti, contoh dipilihnya  tanggal mulai cuti adalah 10 Juni 2022.
+Kemudian lihat kolom di bawah tulisan **Start**, pilih icon kalender, lalu pilih tanggal mulai dinas contoh dipilihnya tanggal mulai dinas adalah 10 Juni 2022.
 
-### 4. Pilih Jam Mulai Cuti
+### 4. Pilih Jam Mulai Dinas
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (22) (1).png>)
 
-Pilih jam cuti, seperti di contoh dipilih jam 8:30
+Pilih jam dinas, seperti di contoh dipilih jam 8:30
 
-### 5. Pilih Tanggal Akhir Cuti
+### 5. Pilih Tanggal Akhir Dinas
 
 ![](<../.gitbook/assets/image (18).png>)
 
-Kemudian lihat kolom di bawah tulisan End, klik icon kalender, kemudian pilih tanggal akhir cuti, contoh dipilihnya  tanggal selesai cuti adalah 16 Juni 2022.
+Kemudian lihat kolom di bawah tulisan **End**, klik icon kalender, kemudian pilih tanggal akhir dinas, contoh dipilihnya  tanggal selesai dinas adalah 16 Juni 2022.
 
-### 6. Pilih Jam Akhir Cuti
+### 6. Pilih Jam Akhir Dinas
 
 ![](<../.gitbook/assets/image (17).png>)
 
-Pilih jam akhir cuti, seperti di contoh ini, dipilih jam 17:30
+Pilih jam akhir dinas, seperti di contoh ini, dipilih jam 17:30
 
 
 
@@ -66,20 +44,18 @@ Pilih jam akhir cuti, seperti di contoh ini, dipilih jam 17:30
 
 ![](<../.gitbook/assets/image (4).png>)
 
-Di kolom Hari Kerja akan secara otomatis menghitung jumlah hari kerja (cuti) karyawan. Harap diperiksa kembali apakah jumlah hari kerja (cuti) tersebut sudah sesuai dengan pengajuan yang karyawan akan ajukan, perhatikan hari Sabtu, Minggu, libur tanggal merah.
+Di kolom Hari Kerja akan secara otomatis menghitung jumlah hari kerja (dinas) karyawan. Harap diperiksa kembali apakah jumlah hari kerja (dinas) tersebut sudah sesuai dengan pengajuan yang karyawan akan ajukan, perhatikan hari Sabtu, Minggu, libur tanggal merah.
 
-Jika ada kesalahan dari jumlah hari atau sisa jumlah cuti, dapat cari info ke HRD.
+Jika ada kesalahan dari jumlah hari atau sisa jumlah dinas, dapat cari info ke HRD.
 
-### **8**. Masukkan Alasan Cuti
+### **8**. Masukkan Keperluan Dinas
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (10).png>)
 
-Masukkan alasan cuti di kolom Alasan.
-
-Contoh: jika kategori cuti adalah Dinas Luar, maka menyertakan alasan yaitu mengantar tamu.
+Masukkan tujuan dinas luar. Contoh, mengurus izin usaha di Banjarmasin
 
 ### **9. Kirim**
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 Berikutnya, klik **KIRIM.**

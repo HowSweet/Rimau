@@ -7,7 +7,7 @@
 1. Klik tanda panah "v" seperti yang ditunjuk di foto.
 2. Pilih bulan yang akan di cek absensinya.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 ### Cek Absensi Tahun Tertentu
 

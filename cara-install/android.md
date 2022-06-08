@@ -10,7 +10,7 @@ Pertama, buka website ESS di [https://ess.rimauaplikasi.com/](https://ess.rimaua
 
 ### Tekan tombol titik 3
 
-### ![](<../.gitbook/assets/image (14) (1).png>)
+### ![](<../.gitbook/assets/image (14) (1) (1).png>)
 
 Bila pilihan Add ESS Rimau to Home screen tidak muncul, tekan tombol titik 3.
 

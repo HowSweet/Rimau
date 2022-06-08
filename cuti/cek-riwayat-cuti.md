@@ -2,7 +2,7 @@
 
 ### 1. Klik Sisa Cuti
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/Untitled design (6).png>)
 
 Klik tombol **Sisa Cuti**  untuk masuk ke halaman riwayat cuti.
 
