@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/Untitled design (7).png>)
 
-Untuk posisi Junior Supervisor keatas, Anda akan memiliki pilihan **Perizinan (Team)**. Untuk melihat perizinan yang telah dibuat oleh team Anda, klik **Perizinan (Team).**
+Untuk posisi Supervisor keatas, Anda akan memiliki pilihan **Perizinan (Team)**. Untuk melihat perizinan yang telah dibuat oleh team Anda, klik **Perizinan (Team).**
 
 ### Tanggapi Izin
 

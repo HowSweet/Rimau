@@ -44,7 +44,7 @@ Pilih jam pulang kantor, jam 17:30.
 
 ### 7. Jumlah Hari Kerja yang Terpakai
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (39).png>)
 
 Di kolom Hari Kerja akan secara otomatis menghitung jumlah hari kerja (cuti) karyawan. Harap diperiksa kembali bahwa jumlah hari kerja yang terpakai hanya 1 hari saja. Karena perihal mesin fingerprint error hanya mencakup awal masuk kerja hingga akhir hari kerja itu saja.
 
