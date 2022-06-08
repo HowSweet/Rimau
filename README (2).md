@@ -10,7 +10,7 @@ Pertama, buka website ESS di [https://ess.rimauaplikasi.com/](https://ess.rimaua
 
 ### Tekan Tombol Share
 
-![](<.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (11) (1).png>)
 
 Setelah membuka website ESS, tekan tombol share.
 
@@ -18,6 +18,6 @@ Setelah membuka website ESS, tekan tombol share.
 
 ### Tambahkan ke Layar Utama
 
-![](<.gitbook/assets/image (18).png>)
+![](<.gitbook/assets/image (18) (1).png>)
 
 Tekan tombol Tambah ke Layar Utama untuk menginstall aplikasi.

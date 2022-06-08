@@ -18,7 +18,9 @@
 
 ## Cuti
 
-* [Buat Izin Cuti](cuti/buat-izin-cuti.md)
+* [Buat Izin Cuti Tahunan](cuti/buat-izin-cuti-tahunan.md)
+* [Buat Izin Dinas Luar](cuti/buat-izin-dinas-luar.md)
+* [Buat Izin Fingerprint Error](cuti/buat-izin-fingerprint-error.md)
 * [Cek Riwayat Cuti](cuti/cek-riwayat-cuti.md)
 * [Perizinan Tim](cuti/perizinan-tim.md)
 

@@ -2,6 +2,6 @@
 
 ### Cara cek Absensi
 
-![](<.gitbook/assets/Untitled design.png>)
+![](<.gitbook/assets/image (3).png>)
 
 Dalam layar absensi, terdapat kolom Hari, Tanggal, In(waktu masuk), Out(waktu pulang), Jam Kerja, dan Deskripsi bila absen kosong.

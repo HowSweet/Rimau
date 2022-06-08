@@ -14,7 +14,7 @@ Klik ubah password untuk mengubah password
 
 ### 3. Halaman Ubah Password
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 Pertama, masukkan password lama di kolom Password Lama. Selanjutnya, masukkan password baru di kolom Password Baru. Re - Password Baru berarti Anda harus memasukkan password baru pada kolom Re - Password Baru untuk mengkonfirmasi password baru. Setelah mengetik password, klik pada centang **Bila** Anda ingin memutus akses dari semua device login. Maka harus login ulang di semua device. Terakhir, pencet **Kirim** untuk menyimpan password baru.
 
