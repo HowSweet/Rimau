@@ -40,7 +40,7 @@ Contoh jika karyawan ingin mengajukan Cuti Tahunan, maka pilih Cuti Tahunan
 
 ![](<../.gitbook/assets/image (28).png>)
 
-Kemudian lihat kolom di bawah tulisan **Start**, pilih icon kalender, lalu pilih tanggal mulai cuti, contoh dipilihnya  tanggal mulai cuti adalah 10 Juni 2022.
+Kemudian lihat kolom di bawah tulisan **Start**, pilih icon kalender, lalu pilih tanggal mulai cuti, contoh dipilihnya tanggal mulai cuti adalah 10 Juni 2022.
 
 ### 4. Pilih Jam Mulai Cuti
 
@@ -50,9 +50,9 @@ Pilih jam cuti, seperti di contoh dipilih jam 8:30
 
 ### 5. Pilih Tanggal Akhir Cuti
 
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
-Kemudian lihat kolom di bawah tulisan End, klik icon kalender, kemudian pilih tanggal akhir cuti, contoh dipilihnya  tanggal selesai cuti adalah 16 Juni 2022 .
+Kemudian lihat kolom di bawah tulisan End, klik icon kalender, kemudian pilih tanggal akhir cuti, contoh dipilihnya tanggal selesai cuti adalah 16 Juni 2022 .
 
 ### 6. Pilih Jam Akhir Cuti
 

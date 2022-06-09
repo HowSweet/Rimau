@@ -30,7 +30,7 @@ Pilih jam dinas, seperti di contoh dipilih jam 8:30
 
 ![](<../.gitbook/assets/image (18).png>)
 
-Kemudian lihat kolom di bawah tulisan **End**, klik icon kalender, kemudian pilih tanggal akhir dinas, contoh dipilihnya  tanggal selesai dinas adalah 16 Juni 2022.
+Kemudian lihat kolom di bawah tulisan **End**, klik icon kalender, kemudian pilih tanggal akhir dinas, contoh dipilihnya tanggal selesai dinas adalah 16 Juni 2022.
 
 ### 6. Pilih Jam Akhir Dinas
 
@@ -42,7 +42,7 @@ Pilih jam akhir dinas, seperti di contoh ini, dipilih jam 17:30
 
 ### 7. Jumlah Hari Kerja yang Terpakai
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 Di kolom Hari Kerja akan secara otomatis menghitung jumlah hari kerja (dinas) karyawan. Harap diperiksa kembali apakah jumlah hari kerja (dinas) tersebut sudah sesuai dengan pengajuan yang karyawan akan ajukan, perhatikan hari Sabtu, Minggu, libur tanggal merah.
 
